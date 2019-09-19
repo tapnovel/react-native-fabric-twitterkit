@@ -41,7 +41,7 @@ public class FabricTwitterKitModule extends ReactContextBaseJavaModule implement
     private final ReactApplicationContext reactContext;
     private Callback callback = null;
     //112 is the average ascii value for every letter in 'twitter'
-    private static final int REQUEST_CODE = 112112;
+    private static final int REQUEST_CODE = 11211;
 
     public FabricTwitterKitModule(ReactApplicationContext reactContext) {
         super(reactContext);
