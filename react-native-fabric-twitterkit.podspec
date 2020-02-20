@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.author       = { 'Trevor Porter' => 'trkporter@ucdavis.edu' }
   s.license      = 'MIT'
   s.homepage     = 'https://github.com/tkporter/react-native-fabric-twitterkit'
-  s.platform     = :ios, "7.0"
+  s.platform     = :ios, "9.0"
   s.source       = { :git => "https://github.com/tkporter/react-native-fabric-twitterkit.git" }
   s.source_files = 'FabricTwitterKit/*'
   s.dependency 'React'
