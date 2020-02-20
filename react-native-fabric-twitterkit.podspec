@@ -9,6 +9,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/tkporter/react-native-fabric-twitterkit.git" }
   s.source_files = 'FabricTwitterKit/*'
+  s.dependency 'React'
   s.dependency 'TwitterKit'
   s.dependency 'TwitterCore'
   s.dependency 'Fabric'
