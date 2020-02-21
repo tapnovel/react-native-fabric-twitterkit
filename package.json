@@ -3,11 +3,6 @@
   "version": "0.3.0",
   "description": "A React Native library for Sending an SMS with Callback",
   "main": "index",
-  "rnpm": {
-    "android": {
-      "packageInstance": "FabricTwitterKitPackage.getInstance()"
-    }
-  },
   "scripts": {
     "test": "flow"
   },
